@@ -1,0 +1,12 @@
+# Security Policy
+
+## Supported Versions
+
+| Version | Supported          |
+| ------- | ------------------ |
+| 0.1.0   | :white_check_mark: |
+| 0.0.0   | :x:                |
+
+## Reporting a Vulnerability
+
+Send and email to [security@starter.cukito.tech](mailto:security@starter.cukito.tech) with the subject `Vulnerability Report`.

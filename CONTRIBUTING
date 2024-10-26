@@ -1,0 +1,33 @@
+# CONTRIBUTING
+
+We love pull requests from everyone. By participating in this project, you agree our [code of conduct](./CODE_OF_CONDUCT).
+
+## Getting Started
+
+Here's a quick guide:
+
+1. Fork the repo.
+2. Create a new branch.
+3. Make your changes.
+4. Push to your branch.
+5. Create a pull request.
+6. Pat yourself on the back and wait for your pull request to be reviewed and merged.
+7. Celebrate 🎉
+8. Repeat!
+9. If you have any questions, feel free to ask.
+
+## Styling Guide
+
+Please use the recommended styling guide for this project. You can find it in the [biome.json](./biome.json) file on the formatter section.
+
+## Tools
+
+We use the following tools to maintain the project:
+
+- [Biome](https://biomejs.dev) for formatting and linting.
+- [pnpm](https://pnpm.io) for package management.
+- [GitHub](https://github.com) for VCS hosting.
+
+## License
+
+By contributing, you agree that your contributions will be licensed under the [LICENSE](./LICENSE) file.
